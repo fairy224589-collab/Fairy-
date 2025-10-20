@@ -1,8 +1,8 @@
 # Hey there! I'm Fairy 🧚‍♀️
 🎮 I build small worlds you can play in.  
 
-I’m an **IT student at IGDTUW** who loves blending **art, storytelling, and code**  whether it’s cozy 2D games, interactive apps, or AI-driven characters.  
-Right now, I’m learning how to turn imagination into playable realities ✨  
+🧠I’m an **IT student at IGDTUW** who loves blending **art, storytelling, and code**  whether it’s cozy 2D games, interactive apps, or AI-driven characters.  
+🤖Right now, I’m learning how to turn imagination into playable realities ✨  
 
 ---
 
